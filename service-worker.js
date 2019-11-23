@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zagooapp/zagoo/precache-manifest.7e934e0202a2bd64f749613965dce53b.js"
+  "/zagooapp/zagoo/precache-manifest.3328be2d0e4577651a1e859d3716dfd9.js"
 );
 
 self.addEventListener('message', (event) => {
