@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03a8964c205c2c8ad23b29811351230d",
+    "revision": "49fde5e49709741bd47e4a718bd0f82d",
     "url": "/zagooapp/zagoo/index.html"
   },
   {
